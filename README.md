@@ -32,6 +32,12 @@ The password from the image is correct and we are able to open the passwords.zip
 This guy really seem into space and sattelite stuff, lets see what the Firefox profile can give us.
 We use firepwd (http[s]://github.com/lclevy/firepwd) and we provide the password we used to open the passwords.zip
 ![image](https://github.com/user-attachments/assets/865ea073-e307-47f7-87e9-10d58d50e572)
+![image](https://github.com/user-attachments/assets/aad0ab6e-2c3a-4aa7-956b-f358d3eecc5e)
+
+So we get a few more passwords, most of them seem to be [satellitename][Year] and with or without a finishing [!] .
+
+Also in the firefox profile we find some search history and downloads.
+
 
 
 
