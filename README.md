@@ -26,7 +26,14 @@ We dig around som more in the Pictures folder, and find the windows password ins
 ![image](https://github.com/user-attachments/assets/d4cb52a5-9630-4005-8807-d360770abd67)
 
 The password from the image is correct and we are able to open the passwords.zip.
+
 ![image](https://github.com/user-attachments/assets/37450028-0b1a-4bd1-909f-4410376caba4)
+
+This guy really seem into space and sattelite stuff, lets see what the Firefox profile can give us.
+We use firepwd (http[s]://github.com/lclevy/firepwd) and we provide the password we used to open the passwords.zip
+![image](https://github.com/user-attachments/assets/865ea073-e307-47f7-87e9-10d58d50e572)
+
+
 
 
 Let's continue by digging deeper into the Windows catalog.
