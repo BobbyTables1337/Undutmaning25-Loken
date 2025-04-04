@@ -25,6 +25,9 @@ We dig around som more in the Pictures folder, and find the windows password ins
 ![image](https://github.com/user-attachments/assets/f4715c5e-6677-49e4-aba0-17241a68691d)
 ![image](https://github.com/user-attachments/assets/d4cb52a5-9630-4005-8807-d360770abd67)
 
+The password from the image is correct and we are able to open the passwords.zip.
+![image](https://github.com/user-attachments/assets/37450028-0b1a-4bd1-909f-4410376caba4)
+
 
 Let's continue by digging deeper into the Windows catalog.
 
