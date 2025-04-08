@@ -85,9 +85,8 @@ Part of the generated passwordfile:
 
 Then throwing that at the encrypted volume and getting a snack..... OR could there be a better way?
 
-There is a tool called veracrypt2hashcat we can use.
+If we take the first 512 
 
-![image](https://github.com/user-attachments/assets/09100e87-f355-45f3-9062-66312fedcb3c)
-
+![image](https://github.com/user-attachments/assets/3fb1e2d6-0b2c-45dc-98f2-971bf1292901)
 
 
