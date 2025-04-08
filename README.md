@@ -36,9 +36,16 @@ We use firepwd (http[s]://github.com/lclevy/firepwd) and we provide the password
 
 So we get a few more passwords, most of them seem to be [satellitename][Year] and with or without a finishing [!] .
 
-Also in the firefox profile we find some search history and downloads.
+Also in the firefox profile we find some search history and downloads using DumpZilla (http[s]://github.com/Busindre/dumpzilla)
 
+Search history indicating wanting to use Veracrypt for hiding things, along with thoughts on inner and outer volumes.
+![image](https://github.com/user-attachments/assets/8359e6b3-96b4-4de1-9bc7-cb0277808fa4)
 
+We can also see the specific version of Veracrypt beeing downloaded.
+![image](https://github.com/user-attachments/assets/c547c960-7504-4e5f-860a-e6db635cf3e7)
+
+# Recap
+So now let us look at what we have so far.
 
 
 
