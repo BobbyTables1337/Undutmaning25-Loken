@@ -5,6 +5,7 @@ We (CTF-Team Shellskapsresan) worked on this during the CTF Undutmaning 2025 but
 
 # Let's go
 We are given two files to download along with a brief description.
+
 ![image](https://github.com/user-attachments/assets/7b4ffbe7-e032-4475-8a35-cc8588716833)
 
 The first file (USB.zip) seems to be an encrypted file of some kind.
@@ -19,6 +20,7 @@ We dig deeper into the profiles folders and we find Documents, images and a Fire
 
 On the Desktop, we also find a file (NotesForMyself.odt) and a password.zip file.
 The notes file contains some clues in the metadata.
+
 ![image](https://github.com/user-attachments/assets/20aafb98-96ba-4399-8071-69b476f3d685)
 
 OK, password to password.zip is the Windows user password, and also we are hinted that we should consider building rules och wordlists based on certain criterias.
@@ -33,6 +35,7 @@ The password from the image is correct and we are able to open the passwords.zip
 
 This guy really seem into space and satellite stuff, lets see what the Firefox profile can give us.
 We use firepwd (http[s]://github.com/lclevy/firepwd) and we provide the password we used to open the passwords.zip
+
 ![image](https://github.com/user-attachments/assets/865ea073-e307-47f7-87e9-10d58d50e572)
 ![image](https://github.com/user-attachments/assets/aad0ab6e-2c3a-4aa7-956b-f358d3eecc5e)
 
@@ -41,9 +44,11 @@ So we get a few more passwords, most of them seem to be [satellitename][Year] an
 Also in the firefox profile we find some search history and downloads using DumpZilla (http[s]://github.com/Busindre/dumpzilla)
 
 Search history indicating wanting to use Veracrypt for hiding things, along with thoughts on inner and outer volumes.
+
 ![image](https://github.com/user-attachments/assets/8359e6b3-96b4-4de1-9bc7-cb0277808fa4)
 
 We can also see the specific version of Veracrypt beeing downloaded.
+
 ![image](https://github.com/user-attachments/assets/c547c960-7504-4e5f-860a-e6db635cf3e7)
 
 # Recap
@@ -59,5 +64,9 @@ Let's continue by digging deeper into the Windows catalog.
 SAM and SYSTEM files, let's see what we can find with samdump2 - hashes nice!
 
 ![image](https://github.com/user-attachments/assets/a602ab67-59b2-4b62-a356-6a735a13ec28)
+
+Some work with john and we get to verify that the windows password (space1337) actually was the windows password :)
+
+![image](https://github.com/user-attachments/assets/6cadfda2-cbe2-4d90-86ef-d2dffd64f49a)
 
 
