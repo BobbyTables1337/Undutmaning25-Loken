@@ -22,6 +22,7 @@ The notes file contains some clues in the metadata.
 OK, password to password.zip is the Windows user password, and also we are hinted that we should consider building rules och wordlists based on certain criterias.
 
 We dig around som more in the Pictures folder, and find the windows password inside one of the images.
+
 ![image](https://github.com/user-attachments/assets/f4715c5e-6677-49e4-aba0-17241a68691d)
 ![image](https://github.com/user-attachments/assets/d4cb52a5-9630-4005-8807-d360770abd67)
 
