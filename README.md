@@ -69,4 +69,16 @@ Some work with john and we get to verify that the windows password (space1337) a
 
 ![image](https://github.com/user-attachments/assets/6cadfda2-cbe2-4d90-86ef-d2dffd64f49a)
 
+Looking more into the Documents folder we find some spreadsheets with data on various satellites.
+
+![image](https://github.com/user-attachments/assets/67671042-ae20-4b35-8558-a4681c1ff45f)
+
+# Looking at breaking into the Veracrypt volume(s).
+
+Since opening a Veracrypt volume is a slow operation throwing 100's of attempts at it would take too much time we have to try it small first.
+
+Building a wordlist out of the passwords we have seen so far and adding years from 2019 to 2025 and adding ! will take long enough without going the "all the names in the spreadsheet" - route.
+
+Then throwing that at the enrcrypted volume and getting a snack.
+
 
