@@ -79,6 +79,9 @@ Since opening a Veracrypt volume is a slow operation throwing 100's of attempts 
 
 Building a wordlist out of the passwords we have seen so far and adding years from 2019 to 2025 and adding ! will take long enough without going the "all the names in the spreadsheet" - route.
 
-Then throwing that at the enrcrypted volume and getting a snack.
+Part of the generated passwordfile:
 
+![image](https://github.com/user-attachments/assets/977a1535-59fb-4629-800a-5f3ff9d78059)
+
+Then throwing that at the encrypted volume and getting a snack.
 
