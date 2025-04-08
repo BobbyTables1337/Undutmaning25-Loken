@@ -16,7 +16,7 @@ The other file (WIN10HDD.zip) is what appears to be a saved user profile from a 
 We dig deeper into the profiles folders and we find Documents, images and a Firefox profile.
 
 On the Desktop, we also find a file (NotesForMyself.odt) and a password.zip file.
-The notes file contains som clues in the metadata.
+The notes file contains some clues in the metadata.
 ![image](https://github.com/user-attachments/assets/20aafb98-96ba-4399-8071-69b476f3d685)
 
 OK, password to password.zip is the Windows user password, and also we are hinted that we should consider building rules och wordlists based on certain criterias.
@@ -29,7 +29,7 @@ The password from the image is correct and we are able to open the passwords.zip
 
 ![image](https://github.com/user-attachments/assets/37450028-0b1a-4bd1-909f-4410376caba4)
 
-This guy really seem into space and sattelite stuff, lets see what the Firefox profile can give us.
+This guy really seem into space and satellite stuff, lets see what the Firefox profile can give us.
 We use firepwd (http[s]://github.com/lclevy/firepwd) and we provide the password we used to open the passwords.zip
 ![image](https://github.com/user-attachments/assets/865ea073-e307-47f7-87e9-10d58d50e572)
 ![image](https://github.com/user-attachments/assets/aad0ab6e-2c3a-4aa7-956b-f358d3eecc5e)
