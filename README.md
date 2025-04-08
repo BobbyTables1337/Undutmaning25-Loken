@@ -83,5 +83,11 @@ Part of the generated passwordfile:
 
 ![image](https://github.com/user-attachments/assets/977a1535-59fb-4629-800a-5f3ff9d78059)
 
-Then throwing that at the encrypted volume and getting a snack.
+Then throwing that at the encrypted volume and getting a snack..... OR could there be a better way?
+
+There is a tool called veracrypt2hashcat we can use.
+
+![image](https://github.com/user-attachments/assets/09100e87-f355-45f3-9062-66312fedcb3c)
+
+
 
