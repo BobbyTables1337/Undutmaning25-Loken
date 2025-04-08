@@ -87,6 +87,9 @@ Then throwing that at the encrypted volume and getting a snack..... OR could the
 
 If we take the first 512 
 
+![image](https://github.com/user-attachments/assets/dce54060-710f-4063-9bc1-a543494bef70)
+
+
 ![image](https://github.com/user-attachments/assets/3fb1e2d6-0b2c-45dc-98f2-971bf1292901)
 
 
