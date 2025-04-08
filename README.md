@@ -3,7 +3,7 @@ WriteUp for CTF-Challenge "Löken" for Undutmaning25 CTF
 
 We (CTF-Team Shellskapsresan) worked on this during the CTF Undutmaning 2025 but we didnt finish it during the CTF, but it got me so frustrated I had to revisit it afterwards to solve it, so here is a small quick and dirty writeup.
 
-# Layout
+# Let's go
 We are given two files to download along with a brief description.
 ![image](https://github.com/user-attachments/assets/7b4ffbe7-e032-4475-8a35-cc8588716833)
 
