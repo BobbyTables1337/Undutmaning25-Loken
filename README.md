@@ -75,7 +75,7 @@ Looking more into the Documents folder we find some spreadsheets with data on va
 
 # Looking at breaking into the Veracrypt volume(s).
 
-Since opening a Veracrypt volume is a slow operation throwing 100's of attempts at it would take too much time we have to try it small first.
+Since opening a Veracrypt volume is a slow operation throwing 1000's of attempts at it would take too much time we have to try it small first.
 
 Building a wordlist out of the passwords we have seen so far and adding years from 2019 to 2025 and adding ! will take long enough without going the "all the names in the spreadsheet" - route.
 
@@ -83,7 +83,15 @@ Part of the generated passwordfile:
 
 ![image](https://github.com/user-attachments/assets/977a1535-59fb-4629-800a-5f3ff9d78059)
 
-Then throwing that at the encrypted volume and getting a snack..... OR could there be a better way?
+Then throwing that at the encrypted volume and getting a snack..... 
+
+![image](https://github.com/user-attachments/assets/82f5c6c6-459d-4403-92c1-de40eaf5ca39)
+
+The opening the volume with password: Viking2023!
+
+We have more stuff!
+
+
 
 If we take the first 512 
 
