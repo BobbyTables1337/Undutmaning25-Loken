@@ -53,9 +53,9 @@ We can also see the specific version of Veracrypt beeing downloaded.
 
 # Recap
 So now let us look at what we have so far.
-1. The encrypted USB.zip gives a file named Evilplans wich most likely is a Veracrypt 
+1. The USB.zip gives a file named Evilplans wich most likely is a Veracrypt 
 version 1.26.15 volume consisting of a inner and outer volume.
-2. We have a bunch of passwords that indicating a preferred password format beeing [satellitename][year] and an optional [!]
+2. We have a bunch of passwords that indicates a preferred password format beeing [satellitename][year] and an optional [!]
 
 Let's continue by digging deeper into the Windows catalog.
 
