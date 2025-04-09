@@ -65,13 +65,7 @@ SAM and SYSTEM files, let's see what we can find with samdump2 - hashes nice!
 
 ![image](https://github.com/user-attachments/assets/a602ab67-59b2-4b62-a356-6a735a13ec28)
 
-Some work with john and we get to verify that the windows password (space1337) actually was the windows password :)
-
-![image](https://github.com/user-attachments/assets/6cadfda2-cbe2-4d90-86ef-d2dffd64f49a)
-
-Looking more into the Documents folder we find some spreadsheets with data on various satellites.
-
-![image](https://github.com/user-attachments/assets/67671042-ae20-4b35-8558-a4681c1ff45f)
+Some work with john and we get to verify that the windows password (space1337) actually was the windows password.
 
 # Looking at breaking into the Veracrypt volume(s).
 
@@ -127,6 +121,12 @@ The flag
 
 ![image](https://github.com/user-attachments/assets/383cf9bc-a78e-4a6d-b89d-aed63a026c9f)
 
+
+# Thoughts
+
+This was a frustrating challenge, and it only got 3 solves during the competition.
+
+There should be a different route to opening the outer volume by using hashcat and trying to crack the first 512 bytes, cant tell if its faster but try if you want to.
 
 
 
