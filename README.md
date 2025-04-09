@@ -79,7 +79,7 @@ Part of the generated passwordfile:
 
 Then throwing that at the encrypted volume and getting a snack..... 
 
-![image](https://github.com/user-attachments/assets/82f5c6c6-459d-4403-92c1-de40eaf5ca39)
+![image](https://github.com/user-attachments/assets/d4dbc0b8-f17c-4042-ab8e-5c0dbb123075)
 
 Then opening the volume with password: Viking2023!
 
