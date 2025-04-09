@@ -25,7 +25,7 @@ The notes file contains some clues in the metadata.
 
 OK, password to password.zip is the Windows user password, and also we are hinted that we should consider building rules och wordlists based on certain criterias.
 
-We dig around som more in the Pictures folder, and find the windows password inside one of the images (OIP (5) - kopia.jfif)
+We dig around some more in the Pictures folder, and find the windows password inside one of the images (OIP (5) - kopia.jfif)
 .
 ![image](https://github.com/user-attachments/assets/d4cb52a5-9630-4005-8807-d360770abd67)
 
@@ -130,6 +130,6 @@ There should be a different route to opening the outer volume by using hashcat a
 
 Big thanks to the creators of the CTF, it was just as frustrating as we expect from this yearly event :)
 
-Thanks to my mates in Shellskapsresan who make CTF's fun to participate in!
+Thanks to my mates in Shellskapsresan who make CTF's fun to participate in! A special thanks to laffe who seemed equally invested in solving this challenge.
 
 // BobbyTables1337
