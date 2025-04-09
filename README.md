@@ -87,9 +87,19 @@ Then throwing that at the encrypted volume and getting a snack.....
 
 ![image](https://github.com/user-attachments/assets/82f5c6c6-459d-4403-92c1-de40eaf5ca39)
 
-The opening the volume with password: Viking2023!
+Then opening the volume with password: Viking2023!
+
+![image](https://github.com/user-attachments/assets/507deca6-8859-4637-840d-793dc300a3c1)
 
 We have more stuff!
+
+![image](https://github.com/user-attachments/assets/fa9684a3-c72d-45ff-b6b4-24a30c5fabfe)
+
+Content of the decrypted volume.
+
+![image](https://github.com/user-attachments/assets/f5f116b1-c0d4-49c4-82e1-e247a1841200)
+
+
 
 
 
