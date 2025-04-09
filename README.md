@@ -103,11 +103,11 @@ Nothing..
 
 But frustration.
 
-So time to take a step back, and read the content of the file againt.
+So time to take a step back, and read the content of the file again.
 
 ![image](https://github.com/user-attachments/assets/f5f116b1-c0d4-49c4-82e1-e247a1841200)
 
-Hiding something deeper indicates a inner volume, an inner volume is opened just by using a different password, the textfile actually says "Pw above"
+Hiding something deeper indicates a inner volume, and an inner volume is opened just by using a different password, the textfile actually says "Pw above"
 
 Testing the Rickroll URL AS the password for the volume....
 
