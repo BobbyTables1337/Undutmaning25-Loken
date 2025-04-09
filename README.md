@@ -1,5 +1,5 @@
-# Undutmaning25-Loken
-WriteUp for CTF-Challenge "Löken" for Undutmaning25 CTF
+# Undutmaning25 - CTF challenge "Löken"
+WriteUp
 
 We (CTF-Team Shellskapsresan) worked on this during the CTF Undutmaning 2025 but we didnt finish it during the CTF, but it got me so frustrated I had to revisit it afterwards to solve it, so here is a small quick and dirty writeup.
 
@@ -103,7 +103,7 @@ Nothing..
 
 But frustration.
 
-So timeto take a step back, and read the content of the file againt.
+So time to take a step back, and read the content of the file againt.
 
 ![image](https://github.com/user-attachments/assets/f5f116b1-c0d4-49c4-82e1-e247a1841200)
 
@@ -128,13 +128,8 @@ This was a frustrating challenge, and it only got 3 solves during the competitio
 
 There should be a different route to opening the outer volume by using hashcat and trying to crack the first 512 bytes, cant tell if its faster but try if you want to.
 
+Big thanks to the creators of the CTF, it was just as frustrating as we expect from this yearly event :)
 
+Thanks to my mates in Shellskapsresan who make CTF's fun to participate in!
 
-If we take the first 512 
-
-![image](https://github.com/user-attachments/assets/dce54060-710f-4063-9bc1-a543494bef70)
-
-
-![image](https://github.com/user-attachments/assets/3fb1e2d6-0b2c-45dc-98f2-971bf1292901)
-
-
+// BobbyTables1337
