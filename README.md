@@ -95,10 +95,37 @@ We have more stuff!
 
 ![image](https://github.com/user-attachments/assets/fa9684a3-c72d-45ff-b6b4-24a30c5fabfe)
 
-Content of the decrypted volume.
+Content of the textfile.
 
 ![image](https://github.com/user-attachments/assets/f5f116b1-c0d4-49c4-82e1-e247a1841200)
 
+When visiting the URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ we get Rickrolled, and perhaps so did you.
+
+After some time and frustration spent on trying to analyze the URL, the Youtube video and searching for clues in the comment section (perhaps Harriet or Kenneth posted there) we end up with nothing.
+
+Nothing.
+
+Nothing..
+
+But frustration.
+
+So timeto take a step back, and read the content of the file againt.
+
+![image](https://github.com/user-attachments/assets/f5f116b1-c0d4-49c4-82e1-e247a1841200)
+
+Hiding something deeper indicates a inner volume, an inner volume is opened just by using a different password, the textfile actually says "Pw above"
+
+Testing the Rickroll URL AS the password for the volume....
+
+![image](https://github.com/user-attachments/assets/7d5edee1-197c-4730-8a48-7430ab47bc11)
+
+# BOOM
+
+![image](https://github.com/user-attachments/assets/2c72f1f3-b4c7-4277-932c-e92e0f8001f8)
+
+The flag
+
+![image](https://github.com/user-attachments/assets/383cf9bc-a78e-4a6d-b89d-aed63a026c9f)
 
 
 
